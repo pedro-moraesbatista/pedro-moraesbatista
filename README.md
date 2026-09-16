@@ -1,98 +1,48 @@
-<h1 align="center">Pedro Henrique de Moraes Batista</h1>
-<h3 align="center">Analista de Sistemas Pleno I · Desenvolvedor Fullstack · Entusiasta em Inovação e IA</h3>
+# Pedro Henrique de Moraes Batista
 
-<p align="center">
-🚀 Transformando ideias em soluções escaláveis e inteligentes com foco em performance e experiência do usuário.
-</p>
+Software Engineer | Full Stack
 
----
+João Pessoa, PB · Remoto
 
-## 👨‍💻 Sobre mim
+Resolvo problemas ponta a ponta em sistemas distribuídos — arquitetura, implementação, integração, resiliência, observabilidade e automação. Trabalho principalmente com .NET e Vue.js, mas meu foco não é uma stack: é entender o problema, decompor em partes e construir uma solução que funcione em produção.
 
-Sou um desenvolvedor fullstack com mais de **4 anos de experiência** em projetos de alta performance, atuando com tecnologias modernas no desenvolvimento de soluções web, microsserviços, integrações em nuvem e aplicações orientadas por dados.
+## O que faço
 
-Atualmente trabalho como **Analista de Sistemas Pleno I** na **Vsoft**, onde contribuo na criação de sistemas robustos com foco em eficiência, qualidade de código e escalabilidade.
+- **Backend:** .NET (C#), APIs REST, mensageria com RabbitMQ, resiliência com Polly (retry, circuit breaker, autorrecuperação)
+- **Frontend:** Vue.js, TypeScript, Vite, Pinia
+- **Cloud & Infra:** Azure, GCP, Kubernetes, Docker, Apache NiFi, BigQuery
+- **Dados:** MongoDB, SQL Server, Redis
+- **Qualidade:** Playwright, xUnit, Moq, testes E2E e unitários
+- **IA aplicada:** RAG, agentes, automação com LLMs, OpenAI, OpenRouter
 
-- 🎓 Graduado em *Sistemas para Internet* pelo Centro Universitário de João Pessoa (UNIPE)
-- 🧠 Foco em soluções estratégicas com **Inteligência Artificial** e **automação**
-- 💡 Paixão por criar produtos que entregam valor real ao usuário
-- 💬 Comunicação clara e colaboração com equipes multidisciplinares
-- 🌱 Em constante evolução profissional e pessoal
+## Experiência
 
----
+| Empresa | Cargo | Período |
+|---|---|---|
+| Vsoft | Software Engineer Pleno II | 2025 - presente |
+| Vsoft | Software Engineer Pleno I | 2024 - 2025 |
+| Vsoft | Software Engineer Jr III | 2023 - 2024 |
+| Vsoft | Software Engineer Jr II | 2022 - 2023 |
+| Itecsa | Software Engineer Jr I | 2022 |
+| Softcom | Test Analyst / Suporte | 2020 - 2022 |
+| Stalo | Software Developer | 2020 |
+| Gráfica JB | Software Developer (Estágio) | 2021 |
 
-## 🧰 Principais Competências
+## Projetos em destaque
 
-### 🔹 Back-end
-- .NET / C#
-- Microsserviços
-- MongoDB, SQL Server, MySQL
-- Mensageria com RabbitMQ
-- Testes automatizados com xUnit e Moq
+- **[shutdown-resistance](https://github.com/pedrinhoas7/shutdown-resistance)** — Estudo experimental sobre comportamento de LLMs frente a instruções de shutdown. Design fatorial 2×N, múltiplos modelos via OpenRouter, análise estatística.
+- **[AzureBoardsTaskGenerator](https://github.com/pedrinhoas7/AzureBoardsTaskGenerator)** — Automação de criação de tasks no Azure Boards usando IA.
+- **[vue-multitenant](https://github.com/pedrinhoas7/vue-multitenant)** — Frontend multi-tenant com Vue 3, Firebase e CI/CD.
+- **[PollyResilienceApp](https://github.com/pedrinhoas7/PollyResilienceApp)** — Resiliência em APIs .NET com Polly.
+- **[signalr-backend](https://github.com/pedrinhoas7/signalr-backend)** — Backend real-time com .NET 8, SignalR, MongoDB e DDD.
+- **[MLQuestionSimilarity](https://github.com/pedrinhoas7/MLQuestionSimilarity)** — Similaridade semântica com ML.NET.
 
-### 🔹 Front-end
-- Vue.js + TypeScript
-- Vite
-- Desenvolvimento responsivo e acessível (a11y)
-- Integração com APIs REST/GraphQL
+## Formação
 
-### 🔹 DevOps & Cloud
-- Azure e Google Cloud Platform (GCP)
-- Firebase
-- Apache NiFi (ETL e orquestração)
-- Docker e Swagger
+- **Sistemas para Internet** — Centro Universitário de João Pessoa (Unipê) | 2018 - 2020
+- **Logistics, Materials, and Supply Chain Management** — Unipê | 2016 - 2018
 
-### 🔹 Integrações Inteligentes
-- Aplicações com **OpenAI**
-- Estratégias com IA para automação e resposta inteligente
+## Contato
 
----
-
-## 🏢 Experiência Profissional
-
-| Empresa       | Cargo                     | Período         |
-|---------------|---------------------------|------------------|
-| Vsoft         | Analista de Sistemas Pleno I | 2023 - Atual     |
-| Pets AI       | Desenvolvedor Fullstack   | 2022 - 2023      |
-| InfomedBenner | Desenvolvedor             | 2021 - 2022      |
-| Softcom       | Estagiário                | 2020 - 2021      |
-| Stalo         | Estagiário                | 2019 - 2020      |
-
----
-
-## 💻 Tech Stack
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrinhoas7&show_icons=true&theme=default" alt="Pedro's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinhoas7&layout=compact&theme=default" alt="Top languages" />
-</p>
-
----
-
-## 📫 Contato
-
-- 📧 **Email**: pedrinhoas7@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/pedro-henrique-de-moraes-batista-7497a912b](https://www.linkedin.com/in/pedro-henrique-de-moraes-batista-7497a912b)  
-- 🧑‍💻 **Portfólio / Repositórios**: [github.com/pedrinhoas7](https://github.com/pedrinhoas7)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pedrinhoas7&icon=0&color=6" alt="Profile Views" />
-</p>
+- LinkedIn: [pedro-henrique-de-moraes-batista](https://linkedin.com/in/pedro-henrique-de-moraes-batista-7497a912b)
+- E-mail: pedro.h.moraesbatista@gmail.com

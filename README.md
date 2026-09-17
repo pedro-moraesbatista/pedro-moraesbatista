@@ -44,5 +44,5 @@ Resolvo problemas ponta a ponta em sistemas distribuídos — arquitetura, imple
 
 ## Contato
 
-- LinkedIn: [pedro-henrique-de-moraes-batista](https://linkedin.com/in/pedro-henrique-de-moraes-batista-7497a912b)
+- LinkedIn: [pedro-henrique-de-moraes-batista](https://linkedin.com/in/pedro-moraesbatista)
 - E-mail: pedro.h.moraesbatista@gmail.com

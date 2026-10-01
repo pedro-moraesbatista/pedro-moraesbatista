@@ -1,6 +1,6 @@
 # Pedro Henrique de Moraes Batista
 
-Software Engineer | Full Stack
+Software Engineer | Full Stack | Distributed Systems | Cloud & IA | Automation
 
 João Pessoa, PB · Remoto
 
@@ -13,7 +13,7 @@ Resolvo problemas ponta a ponta em sistemas distribuídos — arquitetura, imple
 - **Cloud & Infra:** Azure, GCP, Kubernetes, Docker, Apache NiFi, BigQuery
 - **Dados:** MongoDB, SQL Server, Redis
 - **Qualidade:** Playwright, xUnit, Moq, testes E2E e unitários
-- **IA aplicada:** RAG, agentes, automação com LLMs, OpenAI, OpenRouter
+- **IA aplicada:** RAG, agentes, automação com LLMs, OpenAI, OpenRouter, Mastra, OpenCode
 
 ## Experiência
 
@@ -30,12 +30,13 @@ Resolvo problemas ponta a ponta em sistemas distribuídos — arquitetura, imple
 
 ## Projetos em destaque
 
-- **[shutdown-resistance](https://github.com/pedrinhoas7/shutdown-resistance)** — Estudo experimental sobre comportamento de LLMs frente a instruções de shutdown. Design fatorial 2×N, múltiplos modelos via OpenRouter, análise estatística.
-- **[AzureBoardsTaskGenerator](https://github.com/pedrinhoas7/AzureBoardsTaskGenerator)** — Automação de criação de tasks no Azure Boards usando IA.
-- **[vue-multitenant](https://github.com/pedrinhoas7/vue-multitenant)** — Frontend multi-tenant com Vue 3, Firebase e CI/CD.
-- **[PollyResilienceApp](https://github.com/pedrinhoas7/PollyResilienceApp)** — Resiliência em APIs .NET com Polly.
-- **[signalr-backend](https://github.com/pedrinhoas7/signalr-backend)** — Backend real-time com .NET 8, SignalR, MongoDB e DDD.
-- **[MLQuestionSimilarity](https://github.com/pedrinhoas7/MLQuestionSimilarity)** — Similaridade semântica com ML.NET.
+- **[mastra-orchestrator](https://github.com/pedro-moraesbatista/mastra-orchestrator)** — Orquestrador de agentes de desenvolvimento com Mastra (control plane) e OpenCode (worker). Workflows, retry com classificação de erros, observabilidade e human-in-the-loop.
+- **[shutdown-resistance](https://github.com/pedro-moraesbatista/shutdown-resistance)** — Estudo experimental sobre comportamento de LLMs frente a instruções de shutdown. Design fatorial 2×N, múltiplos modelos via OpenRouter, análise estatística.
+- **[AzureBoardsTaskGenerator](https://github.com/pedro-moraesbatista/AzureBoardsTaskGenerator)** — Automação de criação de tasks no Azure Boards usando IA.
+- **[vue-multitenant](https://github.com/pedro-moraesbatista/vue-multitenant)** — Frontend multi-tenant com Vue 3, Firebase e CI/CD.
+- **[PollyResilienceApp](https://github.com/pedro-moraesbatista/PollyResilienceApp)** — Resiliência em APIs .NET com Polly.
+- **[signalr-backend](https://github.com/pedro-moraesbatista/signalr-backend)** — Backend real-time com .NET 8, SignalR, MongoDB e DDD.
+- **[MLQuestionSimilarity](https://github.com/pedro-moraesbatista/MLQuestionSimilarity)** — Similaridade semântica com ML.NET.
 
 ## Formação
 
